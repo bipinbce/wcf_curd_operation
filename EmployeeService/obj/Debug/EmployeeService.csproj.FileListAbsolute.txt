@@ -1,0 +1,6 @@
+C:\Projects\POC_DEMO\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+C:\Projects\POC_DEMO\EmployeeService\EmployeeService\bin\EmployeeService.dll
+C:\Projects\POC_DEMO\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+C:\Projects\POC_DEMO\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Projects\POC_DEMO\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Projects\POC_DEMO\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb

@@ -14,7 +14,7 @@ namespace EmployeeService
     public class EmployeeService : IEmployeeService   
     {
 
-        public static string ConnectionString = "Data Source=DESKTOP-8A8TA50;Initial Catalog=EmployeeDb;User ID=sa;Password=Mssqlserver@8083;";
+        public static string ConnectionString = "Data Source=.;Initial Catalog=EmployeeDb;User ID=sa;Password=*****;";
         public string GetData(int value)  
         {  
             return string.Format("You entered: {0}", value);  
